@@ -11,6 +11,7 @@ namespace CSharpStudy
         static void Main(string[] args)
         {
             Console.WriteLine("This is my first C# code");
+            Console.WriteLine("This is my first C# code");
         }
     }
 }
