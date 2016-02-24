@@ -7,8 +7,8 @@
     <ProjectGuid>{21F2AAFC-46D4-40C4-98AF-DA371C35A32C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Day001</RootNamespace>
-    <AssemblyName>Day001</AssemblyName>
+    <RootNamespace>Part001_WriteAndReadConsole</RootNamespace>
+    <AssemblyName>Part001_WriteAndReadConsole</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
